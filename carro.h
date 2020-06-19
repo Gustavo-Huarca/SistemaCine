@@ -6,6 +6,8 @@ class Carro
 {
 public:
     Carro();
+private:
+int x;
 };
 
 #endif // CARRO_H
